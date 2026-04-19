@@ -2,13 +2,12 @@
 
 [![Python 3.9+](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/downloads/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Paper](https://img.shields.io/badge/Paper-NeurIPS%202026-red.svg)](paper/Tau2_Adv_Bench_AgentBeats_AhmedAli.pdf)
 
 **Official implementation of τ²-Adv-Bench**, an adversarial evaluation framework for assessing the robustness and safety of conversational AI agents under adversarial manipulation in dual-control environments.
 
-**Author:** Ahmed A. Ali (University of Zurich)
+**Author:** Anonymous (Anonymous Institution)
 **Paper:** Submitted to NeurIPS 2026 Evaluations & Datasets Track
-**Contact:** ahmedaliahmedmohamed.al-ali@uzh.ch
+**Contact:** anonymous@neurips2026.org
 
 ---
 
@@ -356,7 +355,7 @@ tau2-adv-bench/
 │   └── test_adversarial.py
 │
 ├── paper/                             # Research paper
-│   └── Tau2_Adv_Bench_AgentBeats_AhmedAli.pdf
+│   └── Tau2_Adv_Bench_AgentBeats_Anonymous.pdf
 │
 ├── docs/                              # Documentation
 │   ├── FRAMEWORK_GUIDE.md
@@ -379,7 +378,7 @@ If you use τ²-Adv-Bench in your research, please cite:
   author={Ali, Ahmed A.},
   journal={NeurIPS 2026 Evaluations \& Datasets Track},
   year={2026},
-  institution={University of Zurich}
+  institution={Anonymous Institution}
 }
 ```
 
@@ -413,20 +412,20 @@ This work extends the [τ²-Bench framework](https://github.com/sierra-research/
 
 ## 📧 Contact
 
-**Ahmed A. Ali**
-University of Zurich
-Email: ahmedaliahmedmohamed.al-ali@uzh.ch
+**Anonymous**
+Anonymous Institution
+Email: anonymous@neurips2026.org
 
 For questions, issues, or collaboration inquiries, please:
 - Open an issue on GitHub
 - Email the author directly
-- See the [paper](paper/Tau2_Adv_Bench_AgentBeats_AhmedAli.pdf) for detailed methodology
+- See the [paper](paper/Tau2_Adv_Bench_AgentBeats_Anonymous.pdf) for detailed methodology
 
 ---
 
 ## 🔗 Links
 
-- **Paper**: [Tau2_Adv_Bench_AgentBeats_AhmedAli.pdf](paper/Tau2_Adv_Bench_AgentBeats_AhmedAli.pdf)
+- **Paper**: [Tau2_Adv_Bench_AgentBeats_Anonymous.pdf](paper/Tau2_Adv_Bench_AgentBeats_Anonymous.pdf)
 - **Original τ²-Bench**: https://github.com/sierra-research/tau2-bench
 - **Dataset on Hugging Face**: (link will be added after upload)
 - **NeurIPS 2026**: https://neurips.cc/Conferences/2026/CallForDatasetsBenchmarks
